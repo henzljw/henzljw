@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to heckerio's Github Profile.
+Welcome to heckerio's Github Profile, a platform to showcase my project 😜
 
 📱 heckerio's social media 📱
 - 🌐 Website: https://heckerio.github.io/
