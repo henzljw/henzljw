@@ -3,7 +3,7 @@
 Welcome to heckerio's Github Profile.
 
 📱 heckerio's social media 📱
-- https://www.instagram.com/heckerio/
-- https://twitter.com/heckerioXD
-- https://www.linkedin.com/in/henrylawjunwei/
-
+- Website: https://heckerio.github.io/
+- Instagram: https://www.instagram.com/heckerio/
+- Twitter: https://twitter.com/heckerioXD
+- LinkedIn: https://www.linkedin.com/in/henrylawjunwei/
