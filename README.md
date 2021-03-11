@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Henry's here and welcome to my Github Profile. Do welcome to reach me at my social media that attached below
-- 📷: https://www.instagram.com/heckerio/
-- 🕊️: https://twitter.com/heckerioXD
+Welcome to heckerio's Github Profile.
 
+📱 heckerio's social media 📱
+- https://www.instagram.com/heckerio/
+- https://twitter.com/heckerioXD
+- https://www.linkedin.com/in/henrylawjunwei/
 
