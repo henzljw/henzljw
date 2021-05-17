@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Truly Malaysian, Computer Science student, MMUian, Mobilegraphy // 
+  Truly Malaysian, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  To be updated...
+  To be updated soon...
 </p>
 <div class="workspace">
   
