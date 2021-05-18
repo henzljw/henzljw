@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Truly Malaysian, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast
+  Truly Malaysian, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast, Gamer
 </p>
 
 <p align="center">
