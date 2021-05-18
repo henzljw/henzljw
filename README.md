@@ -25,16 +25,16 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heckerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </p>
 
 <!-- PC WORKSPACE -->
-<p align="center">
+<h3 align="center">
    💻 heckerio's workspace 💻
-</p>
+</h3>
 
 <p align="center">
   <a href="https://linuxmint.com/">
@@ -52,10 +52,26 @@
   </a>
 </p>
 
+<!-- EMAIL ADDRESS -->
+<p align="center">
+  Reach me at lawjunwei@gmail.com
+</p>
+
+<!-- PROGRAMMING LANGUAGE -->
+<h3 align="center">heckerio's interest</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 <!-- COMING SOON -->
 <p align="center">
   PS: To be updated soon...
 </p>
-<div class="workspace">
-  
-</div>
