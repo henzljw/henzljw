@@ -26,6 +26,11 @@
   </a>
 </p>
 
+<!-- EMAIL ADDRESS -->
+<p align="center">
+  Reach me at lawjunwei@gmail.com
+</p>
+
 <!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
@@ -50,11 +55,6 @@
   <a href="https://www.notebookcheck.net/NVIDIA-GeForce-940MX.156033.0.html">
     <img src="https://img.shields.io/badge/nvidia-gt%20940MX-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
   </a>
-</p>
-
-<!-- EMAIL ADDRESS -->
-<p align="center">
-  Reach me at lawjunwei@gmail.com
 </p>
 
 <!-- PROGRAMMING LANGUAGE -->
