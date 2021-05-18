@@ -16,6 +16,12 @@
   <a href="https://www.linkedin.com/in/henrylawjunwei/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/heckerio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/k2q0zy5rh7zh2tsond5b9kwes">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
 <p align='center'>
@@ -27,6 +33,9 @@
 </p>
 
 <p align="center">
+  <a href="https://linuxmint.com/">
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  </a>
   <a href="https://www.microsoft.com/en-my/windows">
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   </a>
