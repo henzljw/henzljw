@@ -2,10 +2,12 @@
   heckerio
 </h1>
 
+<!-- WHO AM I -->
 <p align="center">
   Truly Malaysian, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast, Gamer
 </p>
 
+<!-- SOCIAL MEDIA -->
 <p align="center">
   <a href="https://www.instagram.com/heckerio/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,10 +26,12 @@
   </a>
 </p>
 
+<!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<!-- PC WORKSPACE -->
 <p align="center">
    💻 heckerio's workspace 💻
 </p>
@@ -48,6 +52,7 @@
   </a>
 </p>
 
+<!-- COMING SOON -->
 <p align="center">
   PS: To be updated soon...
 </p>
