@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heckerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
