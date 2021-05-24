@@ -1,5 +1,7 @@
 <h1 align="center">
-  heckerio
+  <code>
+    heckerio
+  </code>
 </h1>
 
 <!-- WHO AM I -->
