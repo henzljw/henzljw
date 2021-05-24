@@ -6,7 +6,7 @@
 <p align="center">
   A Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
 </p>
-### A Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
+
 <!-- SOCIAL MEDIA -->
 <p align="center">
   <a href="https://www.instagram.com/heckerio/">
@@ -84,9 +84,4 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<!-- COMING SOON -->
-<p align="center">
-  PS: To be updated soon...
 </p>
