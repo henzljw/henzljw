@@ -4,9 +4,9 @@
 
 <!-- WHO AM I -->
 <p align="center">
-  Truly Malaysian, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast, Gamer
+  A Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
 </p>
-
+### A Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
 <!-- SOCIAL MEDIA -->
 <p align="center">
   <a href="https://www.instagram.com/heckerio/">
