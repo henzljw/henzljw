@@ -26,6 +26,9 @@
   <a href="https://open.spotify.com/user/k2q0zy5rh7zh2tsond5b9kwes">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <!-- EMAIL ADDRESS -->
