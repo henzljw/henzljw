@@ -33,7 +33,7 @@
 
 <!-- EMAIL ADDRESS -->
 <p align="center">
-  Reach me at lawjunwei@gmail.com
+  Welcome to reach me at lawjunwei@gmail.com
 </p><br/>
 
 <!-- GITHUB STATS -->
