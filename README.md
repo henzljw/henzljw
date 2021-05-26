@@ -29,17 +29,17 @@
   <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</p><br/>
 
 <!-- EMAIL ADDRESS -->
 <p align="center">
   Reach me at lawjunwei@gmail.com
-</p>
+</p><br/>
 
 <!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</p>
+</p><br/>
 
 <!-- PC WORKSPACE -->
 <h3 align="center">
@@ -55,12 +55,12 @@
   </a><br/>
   <a href="https://ark.intel.com/content/www/us/en/ark/products/95443/intel-core-i5-7200u-processor-3m-cache-up-to-3-10-ghz.html">
     <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />  
-  </a>
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  </a><br/>
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><br/>
   <a href="https://www.notebookcheck.net/NVIDIA-GeForce-940MX.156033.0.html">
     <img src="https://img.shields.io/badge/nvidia-gt%20940MX-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  </a>
-</p>
+  </a><br/>
+</p><br/>
 
 <!-- PROGRAMMING LANGUAGE -->
 <h3 align="center">What he knows</h3>
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-</p>
+</p><br/>
 
 <!-- PROGRAMMING LANGUAGE -->
 <h3 align="center">OTW to explore</h3>
