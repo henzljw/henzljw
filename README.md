@@ -39,6 +39,7 @@
 <!-- GITHUB STATS -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heckerio&layout=compact" />
 </p><br/>
 
 <!-- PC WORKSPACE -->
