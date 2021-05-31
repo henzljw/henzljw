@@ -54,7 +54,7 @@
 <p align="center">
   <a href="https://linuxmint.com/">
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  </a>
+  </a><br/>
   <a href="https://www.microsoft.com/en-my/windows">
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   </a><br/>
