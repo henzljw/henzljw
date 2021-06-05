@@ -6,7 +6,7 @@
 
 <!-- WHO AM I -->
 <p align="center">
-  A Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
+  A 99's batch, Computer Science student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
 </p>
 
 <!-- SOCIAL MEDIA -->
