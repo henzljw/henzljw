@@ -111,4 +111,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p><br/>
+
+<!-- HECKERIO'S PROJECTS -->
+<h3 align="center">Projects that I done</h3>
+<p align="center">
+  <a href="https://github.com/heckerio/hashtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
 </p>
