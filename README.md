@@ -116,5 +116,5 @@
 <!-- HECKERIO'S PROJECTS -->
 <h3 align="center">Projects that I done</h3>
 <p align="center">
-  <a href="https://github.com/heckerio/hashtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
+  <a href="https://github.com/heckerio/hashtech" target="blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
 </p>
