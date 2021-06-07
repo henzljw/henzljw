@@ -33,7 +33,23 @@
 
 <!-- EMAIL ADDRESS -->
 <p align="center">
-  Welcome to reach me at lawjunwei@gmail.com
+  Welcome to reach me at <code>lawjunwei@gmail.com</code>
+</p><br/>
+
+<!-- GITHUB PROFILE VIEWS & FOLLOWERS -->
+<p align='center'>
+  <a href="#"><img src="https://gpvc.arturio.dev/heckerio" /></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/heckerio.svg?style=social&label=Follow&maxAge=2592000" /></a>
+</p><br/>
+
+<!-- GITHUB TROPHY -->
+<p align='center'>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=heckerio&row=1" /></a>
+</p><br/>
+
+<!-- GITHUB STREAK -->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heckerio&theme=blue-green" /></a>
 </p><br/>
 
 <!-- GITHUB STATS -->
