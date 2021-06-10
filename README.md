@@ -28,12 +28,10 @@
   </a>
   <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a><br/>
+  <a href="mailto:lawjunwei@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p><br/>
-
-<!-- EMAIL ADDRESS -->
-<p align="center">
-  Welcome to reach me at <code>lawjunwei@gmail.com</code>
 </p><br/>
 
 <!-- GITHUB PROFILE VIEWS & FOLLOWERS -->
