@@ -34,6 +34,11 @@
   </a>
 </p><br/>
 
+<!-- STATUS -->
+<h4 align="center">
+  <code>👩🏻‍💻 Status: Learning Docker, Flutter, Dart and Firebase</code>
+</h4><br/>
+
 <!-- GITHUB PROFILE VIEWS & FOLLOWERS -->
 <p align='center'>
   <a href="#"><img src="https://gpvc.arturio.dev/heckerio" /></a>
