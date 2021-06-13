@@ -39,12 +39,6 @@
   <code>👩🏻‍💻 Status: Learning Docker, Flutter, Dart and Firebase</code>
 </h4><br/>
 
-<!-- GITHUB PROFILE VIEWS & FOLLOWERS -->
-<p align='center'>
-  <a href="#"><img src="https://gpvc.arturio.dev/heckerio" /></a>
-  <a href="#"><img src="https://img.shields.io/github/followers/heckerio.svg?style=social&label=Follow&maxAge=2592000" /></a>
-</p><br/>
-
 <!-- GITHUB TROPHY -->
 <p align='center'>
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=heckerio&row=1" /></a>
