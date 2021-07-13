@@ -36,7 +36,7 @@
 
 <!-- STATUS -->
 <h4 align="center">
-  <code>👩🏻‍💻 Status: Learning Docker, Flutter, Dart and Firebase</code>
+  <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
 </h4><br/>
 
 <!-- GITHUB TROPHY -->
