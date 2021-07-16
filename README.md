@@ -115,3 +115,6 @@
 <p align="center">
   <a href="https://github.com/heckerio/hashtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
 </p>
+
+<!-- GITHUB CONTRIBUTION SNAKE -->
+<p align="center"><img align="center" src="https://github.com/heckerio/heckerio/blob/output/github-contribution-grid-snake.svg" /></p>
