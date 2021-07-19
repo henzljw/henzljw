@@ -4,36 +4,6 @@
   </code>
 </h1>
 
-<!-- WHO AM I -->
-<p align="center">
-  A 99's batch, BCS student, MMUian, Mobilegraphy, Tech enthusiast and Gamer from Johor Darul Takzim, Malaysia. 
-</p>
-
-<!-- SOCIAL MEDIA -->
-<!-- <p align="center">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><br/>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a><br/>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p><br/> -->
-
 <!-- STATUS -->
 <h4 align="center">
   <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
@@ -41,27 +11,27 @@
 
 <!-- GITHUB TROPHY -->
 <p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=heckerio&row=1" /></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hezagon&row=1" /></a>
 </p><br/>
 
 <!-- GITHUB STREAK -->
 <p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heckerio&theme=blue-green" /></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hezagon&theme=blue-green" /></a>
 </p><br/>
 
 <!-- GITHUB STATS -->
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=heckerio&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hezagon&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </p><br/>
 
 <!-- COMPACT LANGUAGE CAR LAYOUT -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heckerio&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezagon&layout=compact" />
 </p><br/>
 
 <!-- PC WORKSPACE -->
 <h3 align="center">
-   💻 heckerio's workspace 💻
+   💻 hezagon's workspace 💻
 </h3>
 
 <p align="center">
@@ -110,10 +80,10 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p><br/>
 
-<!-- HECKERIO'S PROJECTS -->
+<!-- HEZAGON'S PROJECTS -->
 <h3 align="center">Projects that I done</h3>
 <p align="center">
-  <a href="https://github.com/heckerio/hashtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
 </p>
 
 <!-- GITHUB CONTRIBUTION SNAKE -->
