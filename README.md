@@ -80,11 +80,3 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p><br/>
 
-<!-- HEZAGON'S PROJECTS -->
-<h3 align="center">Projects that I done</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heckerio&repo=hashtech" /></a>
-</p>
-
-<!-- GITHUB CONTRIBUTION SNAKE -->
-<p align="center"><img align="center" src="https://github.com/heckerio/heckerio/blob/output/github-contribution-grid-snake.svg" /></p>
