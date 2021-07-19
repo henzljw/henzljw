@@ -1,6 +1,6 @@
 <h1 align="center">
   <code>
-    heckerio
+    hezagon
   </code>
 </h1>
 
@@ -10,29 +10,29 @@
 </p>
 
 <!-- SOCIAL MEDIA -->
-<p align="center">
-  <a href="https://www.instagram.com/heckerio/">
+<!-- <p align="center">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/heckerioXD">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
   </a>
-  <a href="https://www.linkedin.com/in/henrylawjunwei/">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a><br/>
-  <a href="https://github.com/heckerio">
+  <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/k2q0zy5rh7zh2tsond5b9kwes">
+  <a href="https://open.spotify.com">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me">
+  <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a><br/>
-  <a href="mailto:lawjunwei@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p><br/>
+</p><br/> -->
 
 <!-- STATUS -->
 <h4 align="center">
