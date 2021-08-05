@@ -10,7 +10,7 @@
 </h4><br/>
 
 <!-- PROFILE -->
-<p>
+<p align="center">
   Henry is my nickname and hezagon is my codename.
 </p>
 
