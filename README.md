@@ -9,6 +9,12 @@
   <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
 </h4><br/>
 
+<!-- PROFILE -->
+<p>
+  Henry is my nickname and hezagon is my codename.
+</p>
+
+
 <!-- GITHUB TROPHY -->
 <p align='center'>
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hezagon&row=1" /></a>
