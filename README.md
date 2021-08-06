@@ -11,9 +11,11 @@
 
 <!-- PROFILE -->
 <p align="center">
-  Henry is my nickname and hezagon is my codename.
-</p>
-
+  hezagon AKA Henry
+</p><br/>
+<p align="center">
+  *Henry is my nickname and hezagon is my codename.*
+</p><br/>
 
 <!-- GITHUB TROPHY -->
 <p align='center'>
