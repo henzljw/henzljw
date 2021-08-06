@@ -4,11 +4,6 @@
   </code>
 </h1>
 
-<!-- STATUS -->
-<h4 align="center">
-  <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
-</h4><br/>
-
 <!-- PROFILE -->
 <p align="center">
   hezagon AKA Henry
@@ -16,6 +11,11 @@
 <p align="center">
   *Henry is my nickname and hezagon is my codename.*
 </p><br/>
+
+<!-- STATUS -->
+<h4 align="center">
+  <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
+</h4><br/>
 
 <!-- GITHUB TROPHY -->
 <p align='center'>
