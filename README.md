@@ -4,63 +4,9 @@
   </code>
 </h1>
 
-<!-- PROFILE -->
-<p align="center">
-  hezagon AKA Henry
-</p><br/>
-<p align="center">
-  *Henry is my nickname and hezagon is my codename.*
-</p><br/>
-
-<!-- STATUS -->
-<h4 align="center">
-  <code>👩🏻‍💻 Status: Learning Python, Docker, Flutter, Dart and Firebase</code>
-</h4><br/>
-
-<!-- GITHUB TROPHY -->
-<p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hezagon&row=1" /></a>
-</p><br/>
-
-<!-- GITHUB STREAK -->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hezagon&theme=blue-green" /></a>
-</p><br/>
-
-<!-- GITHUB STATS -->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hezagon&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</p><br/>
-
-<!-- COMPACT LANGUAGE CAR LAYOUT -->
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezagon&layout=compact" />
-</p><br/>
-
-<!-- PC WORKSPACE -->
-<h3 align="center">
-   💻 hezagon's workspace 💻
-</h3>
-
-<p align="center">
-  <a href="https://linuxmint.com/">
-    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  </a><br/>
-  <a href="https://www.microsoft.com/en-my/windows">
-    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  </a><br/>
-  <a href="https://ark.intel.com/content/www/us/en/ark/products/95443/intel-core-i5-7200u-processor-3m-cache-up-to-3-10-ghz.html">
-    <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />  
-  </a><br/>
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><br/>
-  <a href="https://www.notebookcheck.net/NVIDIA-GeForce-940MX.156033.0.html">
-    <img src="https://img.shields.io/badge/nvidia-gt%20940MX-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  </a><br/>
-</p><br/>
-
 <!-- PROGRAMMING LANGUAGE -->
-<h3 align="center">What he knows</h3>
-<p align="center">
+<h3 align='center'>What he knows</h3>
+<p align='center'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -87,3 +33,46 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p><br/>
+
+<!-- PC WORKSPACE -->
+<h3 align='center'>
+   💻 hezagon's workspace 💻
+</h3>
+<p align='center'>
+  <a href="https://linuxmint.com/">
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  </a><br/>
+  <a href="https://www.microsoft.com/en-my/windows">
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  </a><br/>
+  <a href="https://ark.intel.com/content/www/us/en/ark/products/95443/intel-core-i5-7200u-processor-3m-cache-up-to-3-10-ghz.html">
+    <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />  
+  </a><br/>
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><br/>
+  <a href="https://www.notebookcheck.net/NVIDIA-GeForce-940MX.156033.0.html">
+    <img src="https://img.shields.io/badge/nvidia-gt%20940MX-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  </a><br/>
+</p><br/>
+
+<!-- COMPACT LANGUAGE CAR LAYOUT -->
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezagon&layout=compact" />
+</p><br/>
+
+<!-- GITHUB STREAK -->
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=hezagon&show_icons=true&count_private=true&theme=vision-friendly-dark" width="460" />
+</p>
+
+<!-- GITHUB STATS -->
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hezagon&theme=blue-green" />
+</p>
+
+<!-- GITHUB TROPHY -->
+<p align='center'>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=hezagon&row=1" /></a>
+</p><br/>
+
+<!-- GITHUB ACTIVITY GRAPH -->
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=hezagon&theme=react-dark)
