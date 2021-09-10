@@ -4,12 +4,6 @@
   </code>
 </h1>
 
-<!-- STATUS -->
-<h3 align='center'>Status</h3>
-<p align='center'>
-  Learning Flutter, Dart and Python for my Final Year Project 👨‍💻
-</p><br/>
-
 <!-- PROGRAMMING LANGUAGE -->
 <h3 align='center'>What he knows</h3>
 <p align='center'>
