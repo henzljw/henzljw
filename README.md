@@ -5,9 +5,8 @@
 </h1>
 
 <h3 align="center">Current project</h3>
-<ul align="center">
-  <li>An intelligent meal recommender and sharing application</li> 
-</ul><br/>
+An intelligent meal recommender and sharing application
+<br/>
 
 <!-- PROGRAMMING LANGUAGE -->
 <h3 align='center'>What he knows</h3>
