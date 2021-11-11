@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Current project</h3>
-An intelligent meal recommender and sharing application
+<p align="center">An intelligent meal recommender and sharing application</p>
 <br/>
 
 <!-- PROGRAMMING LANGUAGE -->
