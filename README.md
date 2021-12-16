@@ -1,6 +1,6 @@
 <h1 align="center">
   <code>
-    hezagon
+    heZ // hezagon
   </code>
 </h1>
 
