@@ -1,6 +1,6 @@
 <h1 align="center">
   <code>
-    heZ // hezagon
+    henZ // hezagon
   </code>
 </h1>
 
@@ -60,23 +60,23 @@
 
 <!-- COMPACT LANGUAGE CAR LAYOUT -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heZ1010&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henZ1010&layout=compact" />
 </p><br/>
 
 <!-- GITHUB STREAK -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=heZ1010&show_icons=true&count_private=true&theme=vision-friendly-dark" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henZ1010&show_icons=true&count_private=true&theme=vision-friendly-dark" width="460" />
 </p>
 
 <!-- GITHUB STATS -->
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heZ1010&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henZ1010&theme=blue-green" />
 </p>
 
 <!-- GITHUB TROPHY -->
 <p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=heZ1010&row=1" /></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=henZ1010&row=1" /></a>
 </p><br/>
 
 <!-- GITHUB ACTIVITY GRAPH -->
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=heZ1010&theme=react-dark)
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=henZ1010&theme=react-dark)
