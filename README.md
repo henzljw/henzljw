@@ -9,7 +9,9 @@
 <br/>
 
 <h3 align="center">Custom personal portfolio website</h3>
-<p align="center">https://henz1010.github.io/</p>
+<div align="center">
+  <a href="https://henz1010.github.io/" target="_blank">henz1010.github.io</a>
+</div>
 <br/>
 
 <!-- PROGRAMMING LANGUAGE -->
