@@ -4,10 +4,6 @@
   </code>
 </h1>
 
-<h3 align="center">Current project</h3>
-<p align="center">An intelligent meal recommender and sharing application</p>
-<br/>
-
 <h3 align="center">Custom personal portfolio website</h3>
 <div align="center">
   <a href="https://henz1010.github.io/" target="_blank">henz1010.github.io</a>
