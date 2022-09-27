@@ -1,12 +1,12 @@
 <h1 align="center">
   <code>
-    henz // hezagon
+    henzljw
   </code>
 </h1>
 
 <h3 align="center">Custom personal portfolio website</h3>
 <div align="center">
-  <a href="https://henz1010.github.io/" target="_blank">henz1010.github.io</a>
+  <a href="https://henzljw.github.io/" target="_blank">henzljw.github.io</a>
 </div>
 <br/>
 
@@ -42,7 +42,7 @@
 
 <!-- PC WORKSPACE -->
 <h3 align='center'>
-   💻 hezagon's workspace 💻
+   💻 henz's workspace 💻
 </h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" />
@@ -64,23 +64,23 @@
 
 <!-- COMPACT LANGUAGE CAR LAYOUT -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henZ1010&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzljw&layout=compact" />
 </p><br/>
 
 <!-- GITHUB STREAK -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=henZ1010&show_icons=true&count_private=true&theme=vision-friendly-dark" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henzljw&show_icons=true&count_private=true&theme=vision-friendly-dark" width="460" />
 </p>
 
 <!-- GITHUB STATS -->
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henZ1010&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henzljw&theme=blue-green" />
 </p>
 
 <!-- GITHUB TROPHY -->
 <p align='center'>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=henZ1010&row=1" /></a>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=henzljw&row=1" /></a>
 </p><br/>
 
 <!-- GITHUB ACTIVITY GRAPH -->
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=henZ1010&theme=react-dark)
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=henzljw&theme=react-dark)
