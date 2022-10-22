@@ -6,7 +6,7 @@
 
 #### About me
 - Final year Computer Science student
-- Malaysian
+- Malaysian from Johor Darul Takzim
 - Passionate about technologies
 - What do I do during free time? Playing video games, taking photos, swimming
 - [My personal website](https://henzljw.github.io/)
