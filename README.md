@@ -1,7 +1,5 @@
 <h1 align="center">
-  <code>
     henzljw
-  </code>
 </h1>
 
 #### About me
@@ -43,6 +41,3 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-
-<!-- GITHUB ACTIVITY GRAPH -->
-![henzljw's github activity graph](https://activity-graph.herokuapp.com/graph?username=henzljw&theme=react-dark)
