@@ -7,7 +7,7 @@
 - 🇲🇾 Malaysian from Johor Darul Takzim
 - 😊 Passionate about technologies
 - 🧑‍💻 What do I do during free time? Playing video games, taking photos, swimming
-- 🌐 [My personal website](https://henzljw.github.io/)
+- 🌐 [My personal website](https://henzljw.vercel.app/)
 - 🏁 Current task: Exploring some framework and conduct mini projects
 
 #### Programming languages
