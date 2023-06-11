@@ -3,7 +3,6 @@
 </h1>
 
 #### About me
-- 💼 Final year Computer Science student
 - 🇲🇾 Malaysian from Johor Darul Takzim
 - 😊 Passionate about technologies
 - 🧑‍💻 What do I do during free time? Playing video games, taking photos, swimming
