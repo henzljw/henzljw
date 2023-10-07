@@ -7,7 +7,6 @@
 - 😊 Passionate about technologies
 - 🧑‍💻 What do I do during free time? Playing video games, taking photos, swimming
 - 🌐 [My personal website](https://henzljw.vercel.app/)
-- 🏁 Current task: Exploring some framework and conduct mini projects
 
 #### Programming languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
